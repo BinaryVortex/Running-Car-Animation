@@ -2,6 +2,8 @@
 
 Running Car Animation built using HTML, CSS and JavaScript.
 
+![Running Car Animation Screenshot](./Screenshot 2024-11-04 173027.png)
+
 ## Demo
 Open `index.html` in your browser (or use a local dev server / Live Server extension) to view the animation.
 
