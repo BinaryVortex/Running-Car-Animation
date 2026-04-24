@@ -5,6 +5,8 @@ Running Car Animation built using HTML, CSS and JavaScript.
 ## Demo
 Open `index.html` in your browser (or use a local dev server / Live Server extension) to view the animation.
 
+![Project Screenshot](./Screenshot%202024-11-04%20173027.png)
+
 ## Features
 - Smooth CSS-based car and wheel animations
 - Scrolling background to simulate movement
